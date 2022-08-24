@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticSearchInDocker", "ElasticSearchInDocker\ElasticSearchInDocker.csproj", "{E295ADFF-7D34-4079-8AFF-E0FAFB4E0EF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E295ADFF-7D34-4079-8AFF-E0FAFB4E0EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E295ADFF-7D34-4079-8AFF-E0FAFB4E0EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E295ADFF-7D34-4079-8AFF-E0FAFB4E0EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E295ADFF-7D34-4079-8AFF-E0FAFB4E0EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E69381AA-91B6-44AD-A658-05A9AEB2CB2E}
+	EndGlobalSection
+EndGlobal
